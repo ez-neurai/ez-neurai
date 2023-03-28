@@ -2,5 +2,5 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
