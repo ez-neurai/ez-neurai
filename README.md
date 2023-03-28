@@ -3,6 +3,6 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez-neurai&theme=github_dark)](https://github.com/ez-neurai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez-neurai&theme=github_dark&layout=compact&card_width=550)](https://github.com/ez-neurai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez-neurai&theme=github_dark&layout=compact&card_width=555)](https://github.com/ez-neurai/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=tokyo-night&hide_title=true&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
