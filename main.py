@@ -8,6 +8,8 @@ markdown_text = """
 ## Recent blog posts
 
 
+---
+## Interests
 """ # list of blog posts will be appended here
 
 lst = []
