@@ -9,9 +9,7 @@ markdown_text = """
 """ # list of blog posts will be appended here
 
 markdown_text1 = """
-## Interests
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google-colab&logoColor=white">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 """
 
 lst = []
