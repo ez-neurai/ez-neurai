@@ -11,3 +11,5 @@
 [DL ; Weight initialization](https://neurai.tistory.com/22) - Mar 07, 2023<br>
 [DL ; Gradient Descent](https://neurai.tistory.com/21) - Mar 07, 2023<br>
 [DL ; 선형 회귀](https://neurai.tistory.com/20) - Feb 24, 2023<br>
+
+test
