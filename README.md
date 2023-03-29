@@ -3,6 +3,7 @@
 ## Recent blog posts
 
 
+[test](https://neurai.tistory.com/29) - Mar 29, 2023<br>
 [DL ; 행렬과 벡터로 MLP 표현](https://neurai.tistory.com/28) - Mar 22, 2023<br>
 [DL ; K-Fold Cross Validation](https://neurai.tistory.com/27) - Mar 21, 2023<br>
 [DL ; Training vs. Test vs. Validation](https://neurai.tistory.com/26) - Mar 21, 2023<br>
@@ -12,8 +13,3 @@
 [DL ; Weight initialization](https://neurai.tistory.com/22) - Mar 07, 2023<br>
 [DL ; Gradient Descent](https://neurai.tistory.com/21) - Mar 07, 2023<br>
 [DL ; 선형 회귀](https://neurai.tistory.com/20) - Feb 24, 2023<br>
-[DL ; 인공 신경망](https://neurai.tistory.com/19) - Feb 22, 2023<br>
-
----
-
-테스트입니다.
