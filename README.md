@@ -7,6 +7,4 @@
 [DL ; Training vs. Test vs. Validation](https://neurai.tistory.com/26) - Mar 21, 2023<br>
 [DL ; Adam](https://neurai.tistory.com/25) - Mar 20, 2023<br>
 
-## Interests
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google-colab&logoColor=white">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
