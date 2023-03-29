@@ -10,7 +10,7 @@ markdown_text = """
 
 markdown_text1 = """
 ## Interests
-<img src="https://img.shields.io/badge/#F9AB00?style=?style=for-the-badge&logo=appveyor&logo=Google-colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 """
 
 lst = []
