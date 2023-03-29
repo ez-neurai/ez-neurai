@@ -9,6 +9,6 @@
 
 ## Interests
 <tr>
-<td><img src="https://img.shields.io/badge/MNE-3776AB?style=for-the-badge&logo=python&logoColor=white"><td>
-<td><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google-colab&logoColor=white"><td>
+<td><img src="https://img.shields.io/badge/MNE-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google-colab&logoColor=white"><td>
 <tr>
