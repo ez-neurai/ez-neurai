@@ -1,5 +1,7 @@
-# Hi, there!
-Your introduction goes here
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&width=435&lines=Hi%2C+there.)](https://git.io/typing-svg)
+
+<br>
+
 ## Recent blog posts
 [DL ; 행렬과 벡터로 MLP 표현](https://neurai.tistory.com/28) - Mar 22, 2023<br>
 [DL ; K-Fold Cross Validation](https://neurai.tistory.com/27) - Mar 21, 2023<br>
