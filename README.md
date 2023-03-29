@@ -8,3 +8,24 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=tokyo-night&hide_title=true&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+import feedparser, datetime
+ 
+tistory_blog_uri="https://neurai.tistory.com/"
+feed = feedparser.parse(tistory_blog_uri+"/rss")
+ 
+markdown_text = """# Hello, World!
+(자기소개)
+## Recent blog posts
+""" # list of blog posts will be appended here
+ 
+lst = []
+ 
+dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
+ 
+for i in feed['entries']:
+    markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
+    print(i['link'], i['title'])
+ 
+f = open("README.md",mode="w", encoding="utf-8")
+f.write(markdown_text)
+f.close()
