@@ -9,6 +9,7 @@ markdown_text = """
 """ # list of blog posts will be appended here
 
 markdown_text1 = """
+## Contribution Wave
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 """
 
