@@ -1,15 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=80&pause=1000&color=5D70AD&background=071437&center=true&vCenter=true&width=1584&height=396&lines=Memory%2C+the+warder+of+the+brain.;A+good+memory+doesn't+eqaul+pale+ink.)](https://git.io/typing-svg)
-
----
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez-neurai&theme=github_dark)](https://github.com/ez-neurai/github-readme-stats)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez-neurai&theme=github_dark&layout=compact&card_width=860&hide=javascript,html,ruby)](https://github.com/ez-neurai/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=tokyo-night&hide_title=true&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-markdown_text = """# Hello, World!
-(자기소개)
+# Hi, there!
+Your introduction goes here
 ## Recent blog posts
-""" # list of blog posts will be appended here
+[DL ; 행렬과 벡터로 MLP 표현](https://neurai.tistory.com/28) - Mar 22, 2023<br>
+[DL ; K-Fold Cross Validation](https://neurai.tistory.com/27) - Mar 21, 2023<br>
+[DL ; Training vs. Test vs. Validation](https://neurai.tistory.com/26) - Mar 21, 2023<br>
+[DL ; Adam](https://neurai.tistory.com/25) - Mar 20, 2023<br>
+[DL ; Momentum vs. RMS prop](https://neurai.tistory.com/24) - Mar 13, 2023<br>
+[DL ; Stochastic Gradient Descent](https://neurai.tistory.com/23) - Mar 08, 2023<br>
+[DL ; Weight initialization](https://neurai.tistory.com/22) - Mar 07, 2023<br>
+[DL ; Gradient Descent](https://neurai.tistory.com/21) - Mar 07, 2023<br>
+[DL ; 선형 회귀](https://neurai.tistory.com/20) - Feb 24, 2023<br>
+[DL ; 인공 신경망](https://neurai.tistory.com/19) - Feb 22, 2023<br>
