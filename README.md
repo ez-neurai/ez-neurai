@@ -3,6 +3,8 @@
 ## Recent blog posts
 
 
+---
+## Interests
 [test](https://neurai.tistory.com/29) - Mar 29, 2023<br>
 [DL ; 행렬과 벡터로 MLP 표현](https://neurai.tistory.com/28) - Mar 22, 2023<br>
 [DL ; K-Fold Cross Validation](https://neurai.tistory.com/27) - Mar 21, 2023<br>
