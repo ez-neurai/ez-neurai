@@ -9,7 +9,8 @@ markdown_text = """
 """ # list of blog posts will be appended here
 
 markdown_text1 = """
-test
+## Interests
+<img src="https://img.shields.io/badge/#F9AB00?style=?style=for-the-badge&logo=appveyor&logo=Google-colab&logoColor=white"/>
 """
 
 lst = []
