@@ -10,3 +10,5 @@
 [DL ; Gradient Descent](https://neurai.tistory.com/21) - Mar 07, 2023<br>
 [DL ; 선형 회귀](https://neurai.tistory.com/20) - Feb 24, 2023<br>
 [DL ; 인공 신경망](https://neurai.tistory.com/19) - Feb 22, 2023<br>
+
+테스트 테스트
