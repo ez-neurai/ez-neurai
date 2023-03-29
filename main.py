@@ -6,11 +6,10 @@ feed = feedparser.parse(tistory_blog_uri+"/rss")
 markdown_text = """
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&duration=4000&pause=800&multiline=true&width=435&height=90&lines=Hi%2C+there.;Welcome+to+my+github+page!;Feel+free+to+look+around.)](https://git.io/typing-svg)
 ## Recent blog posts
-
-
----
-## Interests
 """ # list of blog posts will be appended here
+""" 
+test
+""" 
 
 lst = []
 
