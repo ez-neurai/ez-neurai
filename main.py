@@ -10,13 +10,10 @@ markdown_text = """
 
 markdown_text1 = """
 ## Interests
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/MNE-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google-colab&logoColor=white"></td>
-</tr>
-</table>
-"""
+<div style="display: flex; justify-content: center;">
+<img src="https://img.shields.io/badge/MNE-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google-colab&logoColor=white">
+</div>
 
 lst = []
 
