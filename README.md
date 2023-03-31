@@ -11,9 +11,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-
-<span style = "font-family : AppleSDGothicNeoM00; font-size : 1em;">
-
-테스트 문장입니다. Hello, world!
-
-</span>
