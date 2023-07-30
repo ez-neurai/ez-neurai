@@ -7,6 +7,7 @@
 [Neuroscience ; The action potential](https://neurai.tistory.com/43) - Apr 22, 2023<br>
 [Data Augmentation ; STFT Amplitude Perturbation](https://neurai.tistory.com/42) - Apr 18, 2023<br>
 
-## Contribution Wave\
+## Contribution Wave
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ez-neurai&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
