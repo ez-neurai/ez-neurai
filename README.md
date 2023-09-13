@@ -1,7 +1,8 @@
 
 <img width="40%" src="https://github.com/ez-neurai/ez-neurai/assets/62509122/2361b392-ba8f-4edb-ae70-5320739c41a6"/>
 <br>
-![Typing SVG](https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&duration=4000&pause=800&multiline=true&width=435&height=90&lines=Hi%2C+there.;Welcome+to+my+github+page!;Feel+free+to+look+around.)](https://git.io/typing-svg)
+<br>
 ## Recent blog posts
 [Head First EEG ; SSVEP-based BCI](https://neurai.tistory.com/54) - Sep 11, 2023<br>
 [Head First EEG ; Connectivity](https://neurai.tistory.com/53) - Sep 04, 2023<br>
