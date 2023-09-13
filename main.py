@@ -18,5 +18,4 @@ for i in feed['entries']:
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
-f.write(markdown_text1)
 f.close()
