@@ -33,7 +33,7 @@ jobs:
     - name: Commit README
       run: |
         git add .
-        git diff
+        git diff --staged --exit-code || git commit -m "Update README.md"
         git config --local user.email "ssh3543@gmail.com"
         git config --local user.name "ez-neurai"
         git commit -m "Update README.md"
